@@ -1,7 +1,15 @@
-
 .lexend-text {
   font-family: "Lexend", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: regular;
 }
+
+h1 {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: regular;
+  font-size: 50px;
+}
+
