@@ -1,4 +1,3 @@
-
 .lexend-text {
   font-family: "Lexend", sans-serif;
   font-optical-sizing: auto;
@@ -6,10 +5,18 @@
   font-style: regular;
 }
 
-h1{
+h1 {
   font-family: "Lexend", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: regular;
   font-size: 50px;
+}
+
+.Header {
+  width: 800px;
+  background: url(Headersignup.jpeg) cover;
+  mask-image: lineal-gradient(350px at 40% 50%, black 75%, transparent 76%);
+  mask-image: url("Headersignup.jpeg");
+  mask-repeat: no-repeat;
 }
