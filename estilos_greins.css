@@ -1,0 +1,67 @@
+
+.open-sans-greins {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 87.9;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.read {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: #666;
+  letter-spacing: 1px;
+  margin-top: 0.5rem;
+}
+.card-text
+
+.card:hover .card-img,
+.card:hover .card-img-top {
+  transform: scale(1.05);
+}
+.everest-card {
+        position: relative;
+        overflow: hidden;
+      }
+      .everest-card::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 50%;
+        background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+      }
+      .everest-card .card-img-overlay {
+        z-index: 2; 
+      }
+      .everest-card .card-title {
+        font-size: 2rem; 
+        font-weight: 800; 
+      }
+      footer {
+        background-color: #000;
+        color: #fff;
+        padding-top: 50px;
+      }
+      footer a {
+        color: #aaa;
+        text-decoration: none;
+      }
+      footer a:hover {
+        text-decoration: underline;
+      }
