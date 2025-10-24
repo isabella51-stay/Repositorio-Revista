@@ -13,10 +13,3 @@ h1 {
   font-size: 50px;
 }
 
-.Header {
-  width: 800px;
-  background: url(Headersignup.jpeg) cover;
-  mask-image: lineal-gradient(350px at 40% 50%, black 75%, transparent 76%);
-  mask-image: url("Headersignup.jpeg");
-  mask-repeat: no-repeat;
-}
